@@ -229,6 +229,32 @@ width:250px;
 
 }
 
+#codinggirltitle {
+  font-size: 100px;
+  position: fixed;
+  left: 45%;
+  top: -5%
+}
+#codegirlsimage {
+  position: fixed;
+  right: 5%
+}
+
+#information1 {
+  position:fixed;
+  left:800px;
+  top:200px;
+  font-size: 30px;
+}
+#information2 {
+  position: fixed;
+  font-family: Brush Script MT,cursive;
+  left: 400px;
+  top: 100px;
+  font size: 20px;
+}
+
+
 #click3:hover { background-color: 	#282828; }
 #click2:hover { background-color: 	#282828; }
 #click1:hover { background-color: 	#282828; }
