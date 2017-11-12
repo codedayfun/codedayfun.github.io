@@ -43,3 +43,10 @@ body {
   position: fixed;
   left: 70px;
 }
+
+#titleslide {
+  font-size: 30px;
+  position: relative;
+  left:300px;
+  top:30px;
+}
