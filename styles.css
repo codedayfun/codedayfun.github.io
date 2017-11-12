@@ -99,7 +99,16 @@ body {
 
 #list {
   list-style-type: circle;
-  font-size: 70px;
+  font-size: 20px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: relative;
+  left: 450px;
+  top:30px;
+}
+
+#begin {
+  font-size: 30px;
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
   position: relative;
