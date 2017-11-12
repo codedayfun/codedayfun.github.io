@@ -64,9 +64,18 @@ body {
 
 #para3 {
   color: white;
-  font-family: 'Barlow Semi Condensed', sans-serif;
-  font-size: 20px;
-  top: 250px;
+  font-family:'Barlow Semi Condensed', sans-serif;
+  font-size: 30px;
+  top: 350px;
+  position: fixed;
+  left: 355px;
+}
+
+#para4 {
+  color: white;
+  font-family:'Barlow Semi Condensed', sans-serif;
+  font-size: 47px;
+  top: 300px;
   position: fixed;
   left: 355px;
 }
@@ -75,7 +84,7 @@ body {
 {
   position: fixed;
   left: 500px;
-  top:500px;
+  top:450px;
 }
 
 
