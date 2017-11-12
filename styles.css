@@ -250,6 +250,63 @@ width:250px;
  left: 355px;
 }
 
+#codingtitle {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 65px;
+  top: -10px;
+  position: fixed;
+  left: 400px;
+}
+#codegirlsimage {
+  position: fixed;
+  right: 4%;
+}
+
+#information1 {
+  font-size: 25px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: fixed;
+  left: 450px;px;
+  top:100px;
+}
+#information2 {
+  font-size: 30px;
+  font-weight: bold;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: fixed;
+  left: 260px;px;
+  top:200px;
+}
+#informatio22 {
+  font-size: 20px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: fixed;
+  left: 260px;px;
+  top:250px;
+}
+#information3 {
+  font-weight: bold;
+  font-size: 30px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: fixed;
+  left: 260px;px;
+  top:390px;
+}
+#information4 {
+  font-size: 20px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: fixed;
+  left: 260px;px;
+  top:435px;
+
+}
+
 #click3:hover { background-color: 	#282828; }
 #click2:hover { background-color: 	#282828; }
 #click1:hover { background-color: 	#282828; }
