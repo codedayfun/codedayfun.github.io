@@ -71,6 +71,13 @@ body {
   left: 355px;
 }
 
+#musicplayer1
+{
+  position: fixed;
+  left: 500px;
+  top:500px;
+}
+
 
 #title {
   color: white;
