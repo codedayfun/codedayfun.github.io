@@ -1,13 +1,15 @@
 body {
     background-color: #AAB7B8;
+    height: 100%
 }
 
-#logo {
-  position: fixed;
-  left: 5px;
-  top: 50px;
-  left: 10px;
-  height: 200px;
+#logo img {
+  /*position: fixed;*/
+  /*left: 5px;*/
+  /*top: 50px;*/
+  /*left: 10px;*/
+  /*height: 200px;*/
+  width: 100%;
 }
 
 #sidebar {
@@ -17,31 +19,42 @@ body {
   width: 250px;
 }
 
+#sidebar div {
+  margin-top: 50px;
+  text-align: center;
+  /*border: 3px solid white;*/
+  /*margin: 2px;*/
+}
+
+#root {
+  margin-left: 300px;
+}
+
 #tab1 {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 30px;
-  top: 250px;
-  position: fixed;
-  left: 70px;
+  /*top: 250px;*/
+  /*position: fixed;*/
+  /*left: 70px;*/
 }
 
 #tab2 {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 30px;
-  top: 350px;
-  position: fixed;
-  left: 70px;
+  /*top: 350px;*/
+  /*position: fixed;*/
+  /*left: 70px;*/
 }
 
 #tab3 {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 30px;
-  top: 450px;
-  position: fixed;
-  left: 70px;
+  /*top: 450px;*/
+  /*position: fixed;*/
+  /*left: 70px;*/
 }
 
 #para {
@@ -49,7 +62,7 @@ body {
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 30px;
   top: 160px;
-  position: fixed;
+  /*position: fixed;*/
   left: 355px;
 }
 
@@ -58,7 +71,7 @@ body {
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 30px;
   top: 200px;
-  position: fixed;
+  /*position: fixed;*/
   left: 355px;
 }
 
@@ -67,13 +80,13 @@ body {
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 20px;
   top: 250px;
-  position: fixed;
+  /*position: fixed;*/
   left: 355px;
 }
 
 #musicplayer1
 {
-  position: fixed;
+  /*position: fixed;*/
   left: 500px;
   top:500px;
 }
@@ -84,43 +97,40 @@ body {
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 70px;
   top: 20px;
-  position: fixed;
+  /*position: fixed;*/
   left: 355px;
 }
 
 
 
-#whiterectangle
-{
+#whiterectangle {
   border-style: solid;
    border-width: 8px;
   border-color: white;
   height: 300px;
   width: 700px;
-  position: fixed;
+  /*position: fixed;*/
   left: 400px;
   top: 100px;
 }
 
 
-#welcome
-{
+#welcome {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 100px;
   top: 50px;
-  position: fixed;
+  /*position: fixed;*/
   left: 650px;
 }
 
 
-#welcome2
-{
+#welcome2 {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 60px;
   top: 220px;
-  position: fixed;
+  /*position: fixed;*/
   left: 480px;
 }
 
@@ -128,7 +138,7 @@ body {
   font-size: 70px;
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  position: fixed;
+  /*position: fixed;*/
   left: 400px;
   top:10px;
 }
@@ -138,7 +148,7 @@ body {
   font-size: 20px;
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  position: fixed;
+  /*position: fixed;*/
   top:250px;
   left:450px;
 }
@@ -147,14 +157,34 @@ body {
   font-size: 30px;
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  position: fixed;
-  left: 450px;
+  /*position: fixed;*/
+  left:450px;
   top:175px;
+}
+
+#costumelist {
+  list-style-type: circle;
+  font-size: 20px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  /*position: fixed;*/
+  top: 500px;
+  width: 1000px;
+  left:350px;
+}
+
+#costumetitle{
+  font-size: 30px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  /*position: fixed;*/
+  left: 300px;
+  top:400px;
 }
 
 #click1 {
   height: 80px;
-  position: fixed;
+  /*position: fixed;*/
   width: 250px;
   top: 230px;
 
@@ -162,7 +192,7 @@ body {
 
 #click2 {
   height: 80px;
-  position: fixed;
+  /*position: fixed;*/
   width: 250px;
   top: 330px;
 
@@ -170,7 +200,7 @@ body {
 
 #click3 {
   height: 80px;
-  position: fixed;
+  /*position: fixed;*/
   width: 250px;
   top: 430px;
 
