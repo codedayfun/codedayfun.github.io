@@ -44,6 +44,14 @@ body {
   left: 70px;
 }
 
+#para {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 70px;
+  top: 30px;
+  position: fixed;
+  left: 355px;
+}
 
 #title {
   color: white;
