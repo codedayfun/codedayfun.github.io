@@ -80,6 +80,19 @@ body {
   left: 355px;
 }
 
+#metra {
+  position: fixed;
+  left: 730px;
+  top: 680px;
+    font-family:'Barlow Semi Condensed', sans-serif;
+    color: white;
+  font-size: 50px;
+}
+#trainid {
+  position: fixed;
+  left: 600px;
+  top: 700px;
+}
 #musicplayer1
 {
   position: fixed;
