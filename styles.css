@@ -62,6 +62,15 @@ body {
   left: 355px;
 }
 
+#para3 {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 20px;
+  top: 250px;
+  position: fixed;
+  left: 355px;
+}
+
 
 #title {
   color: white;
@@ -71,6 +80,7 @@ body {
   position: fixed;
   left: 355px;
 }
+
 
 
 #whiterectangle
