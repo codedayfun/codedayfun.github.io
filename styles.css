@@ -45,10 +45,20 @@ body {
 }
 
 #titleslide {
-  font-size: 30px;
+  font-size: 70px;
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
   position: relative;
-  left:300px;
+  left: 450px;
+  top:30px;
+}
+
+#list {
+  list-style-type: circle;
+  font-size: 70px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: relative;
+  left: 450px;
   top:30px;
 }
