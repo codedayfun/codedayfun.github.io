@@ -7,7 +7,7 @@ body {
   left: 5px;
   top: 50px;
   left: 10px;
-  height: 200px;
+width:250px;
 }
 
 #sidebar {
@@ -117,6 +117,28 @@ body {
   top: 100px;
 }
 
+#costumelist {
+  list-style-type: circle;
+  font-size: 15px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: fixed;
+  top: 330px;
+
+  width: 800px;
+  left:350px;
+}
+
+#costumetitle{
+  font-size: 25px;
+  color:#FDFEFE;
+
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position:fixed;
+  left: 350px;
+  top:250px;
+}
+
 
 #welcome
 {
@@ -144,18 +166,18 @@ body {
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
   position: fixed;
-  left: 400px;
+  left: 350px;
   top:10px;
 }
 
 #list {
   list-style-type: circle;
-  font-size: 20px;
+  font-size: 15px;
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
   position: fixed;
-  top:250px;
-  left:450px;
+  top:200px;
+  left:350px;
 }
 
 #begin {
@@ -163,8 +185,8 @@ body {
   color:#FDFEFE;
   font-family: 'Barlow Semi Condensed', sans-serif;
   position: fixed;
-  left: 450px;
-  top:175px;
+  left: 350px;
+  top:135px;
 }
 
 #click1 {
