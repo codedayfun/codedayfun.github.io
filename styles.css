@@ -44,6 +44,39 @@ body {
   left: 70px;
 }
 
+#para {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 30px;
+  top: 160px;
+  position: fixed;
+  left: 355px;
+}
+
+#para2 {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 30px;
+  top: 200px;
+  position: fixed;
+  left: 355px;
+}
+
+#para3 {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 20px;
+  top: 250px;
+  position: fixed;
+  left: 355px;
+}
+
+#musicplayer1
+{
+  position: fixed;
+  left: 500px;
+  top:500px;
+}
 
 
 #title {
@@ -54,6 +87,7 @@ body {
   position: fixed;
   left: 355px;
 }
+
 
 
 #whiterectangle
@@ -74,9 +108,9 @@ body {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 100px;
-  top: 30px;
+  top: 50px;
   position: fixed;
-  left: 400px;
+  left: 650px;
 }
 
 
@@ -85,7 +119,7 @@ body {
   color: white;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 60px;
-  top: 250px;
+  top: 220px;
   position: fixed;
   left: 480px;
 }
@@ -117,3 +151,31 @@ body {
   left: 450px;
   top:175px;
 }
+
+#click1 {
+  height: 80px;
+  position: fixed;
+  width: 250px;
+  top: 230px;
+
+}
+
+#click2 {
+  height: 80px;
+  position: fixed;
+  width: 250px;
+  top: 330px;
+
+}
+
+#click3 {
+  height: 80px;
+  position: fixed;
+  width: 250px;
+  top: 430px;
+
+}
+
+#click3:hover { background-color: 	#282828; }
+#click2:hover { background-color: 	#282828; }
+#click1:hover { background-color: 	#282828; }
