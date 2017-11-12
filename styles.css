@@ -45,6 +45,17 @@ body {
 }
 
 
+
+#title {
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 70px;
+  top: 20px;
+  position: fixed;
+  left: 355px;
+}
+
+
 #whiterectangle
 {
   border-style: solid;
@@ -80,8 +91,20 @@ body {
 }
 
 #titleslide {
-  font-size: 30px;
+  font-size: 70px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
   position: relative;
-  left:300px;
+  left: 450px;
+  top:30px;
+}
+
+#list {
+  list-style-type: circle;
+  font-size: 70px;
+  color:#FDFEFE;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: relative;
+  left: 450px;
   top:30px;
 }
