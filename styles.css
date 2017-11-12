@@ -77,10 +77,26 @@ body {
 
 #para3 {
   color: white;
+<<<<<<< HEAD
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 20px;
   top: 250px;
   /*position: fixed;*/
+=======
+  font-family:'Barlow Semi Condensed', sans-serif;
+  font-size: 30px;
+  top: 350px;
+  position: fixed;
+  left: 355px;
+}
+
+#para4 {
+  color: white;
+  font-family:'Barlow Semi Condensed', sans-serif;
+  font-size: 47px;
+  top: 300px;
+  position: fixed;
+>>>>>>> 164344a44f9f1a4672e0869c5dbeeab81fdb9c7b
   left: 355px;
 }
 
@@ -88,9 +104,15 @@ body {
 {
   /*position: fixed;*/
   left: 500px;
-  top:500px;
+  top:450px;
 }
 
+#button {
+  font-size: 30px;
+  top: 750px;
+  position: fixed;
+  left: 1000px;
+}
 
 #title {
   color: white;
